@@ -1,4 +1,4 @@
-# Laravel Blog Yönetim Sistemi
+# Laravel 12 İle Blog Yönetim Sistemi
 
 Bu proje, Laravel ve PHP kullanılarak geliştirilmiş, temel blog işlevlerini içeren bir içerik yönetim sistemidir.
 
